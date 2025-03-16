@@ -1,3 +1,6 @@
+<img width="550" alt="WeatherAppImage" src="https://github.com/user-attachments/assets/24c2fbdc-7bd0-4d58-b661-9b06afa60d7e" />
+
+
 # weather_app
 
 A new Flutter project.
